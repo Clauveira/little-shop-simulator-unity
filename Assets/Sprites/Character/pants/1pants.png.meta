@@ -1,103 +1,295 @@
 fileFormatVersion: 2
-guid: 4c7081b0600b1c84f8e37cb7d6f84ff7
+guid: fc0cb250e67b8ac45aa6d71eef90ad67
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6584856680018220751
-    second: character_animation_0
+      213: -1105711513228805575
+    second: pants_black_0
   - first:
-      213: 1726984563584092650
-    second: character_animation_1
+      213: 3672492870505897617
+    second: pants_black_1
   - first:
-      213: -6133560922823585848
-    second: character_animation_2
+      213: -6078691636174899413
+    second: pants_black_2
   - first:
-      213: 3145396614681059797
-    second: character_animation_3
+      213: -8562704813885174470
+    second: pants_black_3
   - first:
-      213: -1983959926772422568
-    second: character_animation_4
+      213: 3433941911012986499
+    second: pants_black_4
   - first:
-      213: 6978428017155058595
-    second: character_animation_5
+      213: 6995697526456674945
+    second: pants_black_5
   - first:
-      213: -2688946051990050968
-    second: character_animation_6
+      213: 5051549214945419051
+    second: pants_black_6
   - first:
-      213: -7773762819546202688
-    second: character_animation_7
+      213: -7353200566586889683
+    second: pants_black_7
   - first:
-      213: 1073333691201637667
-    second: character_animation_8
+      213: -2807747169944987486
+    second: pants_black_8
   - first:
-      213: 5323527049590897364
-    second: character_animation_9
+      213: -5786096947063088991
+    second: pants_black_9
   - first:
-      213: -159376352802685378
-    second: character_animation_10
+      213: -1071129674697280440
+    second: pants_black_10
   - first:
-      213: -7763646942824952245
-    second: character_animation_11
+      213: 8670014348071727966
+    second: pants_black_11
   - first:
-      213: -7538676289863199013
-    second: character_animation_12
+      213: 1300605731350976551
+    second: pants_black_12
   - first:
-      213: 8613458520417246732
-    second: character_animation_13
+      213: -2683782298167358521
+    second: pants_black_13
   - first:
-      213: -8497605935941963341
-    second: character_animation_14
+      213: -2869791241799153076
+    second: pants_black_14
   - first:
-      213: -4389324172595633389
-    second: character_animation_15
+      213: 4599097249439702685
+    second: pants_black_15
   - first:
-      213: -3217117435911180394
-    second: character_animation_16
+      213: 111648954039052082
+    second: pants_0
   - first:
-      213: 3230263903667864208
-    second: character_animation_17
+      213: -5213736225766107966
+    second: pants_1
   - first:
-      213: 4918211273991875814
-    second: character_animation_18
+      213: 4303492702523705550
+    second: pants_2
   - first:
-      213: -2066680219456584975
-    second: character_animation_19
+      213: 1778495745541916285
+    second: pants_3
   - first:
-      213: -308079580696897043
-    second: character_animation_20
+      213: -5091526601486579408
+    second: pants_4
   - first:
-      213: 1741074871297008946
-    second: character_animation_21
+      213: 2425370133987659017
+    second: pants_5
   - first:
-      213: -4896330900789641637
-    second: character_animation_22
+      213: 1872297914089251990
+    second: pants_6
   - first:
-      213: 1873764921097823953
-    second: character_animation_23
+      213: 6159646743902499554
+    second: pants_7
   - first:
-      213: 602157287026028384
-    second: character_animation_24
+      213: 519523472987302529
+    second: pants_8
   - first:
-      213: 3381142382836147412
-    second: character_animation_25
+      213: -353160575951561974
+    second: pants_9
   - first:
-      213: -4217267206408138256
-    second: character_animation_26
+      213: 7675136321776371872
+    second: pants_10
   - first:
-      213: 885326840893277015
-    second: character_animation_27
+      213: 8586216748956986914
+    second: pants_11
   - first:
-      213: -7247650913452628573
-    second: character_animation_28
+      213: 4629411478494858030
+    second: pants_12
   - first:
-      213: 272674470052604721
-    second: character_animation_29
+      213: 1837806467017553661
+    second: pants_13
   - first:
-      213: -2507102406125035477
-    second: character_animation_30
+      213: 1102639476527758456
+    second: pants_14
   - first:
-      213: 3567594387519002027
-    second: character_animation_31
+      213: -2552205707173272861
+    second: pants_15
+  - first:
+      213: -8194688374827669794
+    second: pants_16
+  - first:
+      213: 514036607248549618
+    second: pants_17
+  - first:
+      213: -6841266829322011121
+    second: pants_18
+  - first:
+      213: 5836889216904674026
+    second: pants_19
+  - first:
+      213: 1297402710938404743
+    second: pants_20
+  - first:
+      213: -6074130926429122995
+    second: pants_21
+  - first:
+      213: -4580824692094173501
+    second: pants_22
+  - first:
+      213: 6847772846009234093
+    second: pants_23
+  - first:
+      213: -6545024916563434029
+    second: pants_24
+  - first:
+      213: -143251225586915554
+    second: pants_25
+  - first:
+      213: -57811143299340269
+    second: pants_26
+  - first:
+      213: 600996678101630220
+    second: pants_27
+  - first:
+      213: 4330106928878445942
+    second: pants_28
+  - first:
+      213: 4039860696991991420
+    second: pants_29
+  - first:
+      213: 4650614922310443089
+    second: pants_30
+  - first:
+      213: -837172215819331421
+    second: pants_31
+  - first:
+      213: -5784894111428106998
+    second: pants_black_16
+  - first:
+      213: -6796497528094957493
+    second: pants_black_17
+  - first:
+      213: 6858082970091392791
+    second: pants_black_18
+  - first:
+      213: -2580689012783629467
+    second: pants_black_19
+  - first:
+      213: 4066225052342905262
+    second: pants_black_20
+  - first:
+      213: 3013499259027909024
+    second: pants_black_21
+  - first:
+      213: -4130917397147910001
+    second: pants_black_22
+  - first:
+      213: 6150897406492909607
+    second: pants_black_23
+  - first:
+      213: 3059268152012425272
+    second: pants_black_24
+  - first:
+      213: -9131502534387692210
+    second: pants_black_25
+  - first:
+      213: -7277456106363893157
+    second: pants_black_26
+  - first:
+      213: -1541540338254890120
+    second: pants_black_27
+  - first:
+      213: 4963458254973116342
+    second: pants_black_28
+  - first:
+      213: 228153806503563033
+    second: pants_black_29
+  - first:
+      213: -5107052252576236512
+    second: pants_black_30
+  - first:
+      213: 9212950197981852126
+    second: pants_black_31
+  - first:
+      213: -5283537648540776479
+    second: 1pants_0
+  - first:
+      213: -7936707085024152460
+    second: 1pants_1
+  - first:
+      213: 2976101757486868389
+    second: 1pants_2
+  - first:
+      213: 7926982563106207627
+    second: 1pants_3
+  - first:
+      213: 2096952389398416285
+    second: 1pants_4
+  - first:
+      213: 7054844138358809224
+    second: 1pants_5
+  - first:
+      213: 9000632398146879332
+    second: 1pants_6
+  - first:
+      213: -7497686807577421332
+    second: 1pants_7
+  - first:
+      213: -6494181501750833495
+    second: 1pants_8
+  - first:
+      213: 5206467990118675531
+    second: 1pants_9
+  - first:
+      213: 1907366618220746813
+    second: 1pants_10
+  - first:
+      213: -3983137949183486902
+    second: 1pants_11
+  - first:
+      213: 6283139704782994786
+    second: 1pants_12
+  - first:
+      213: 1153344488621055151
+    second: 1pants_13
+  - first:
+      213: 6682756539867869261
+    second: 1pants_14
+  - first:
+      213: 2943619715972073293
+    second: 1pants_15
+  - first:
+      213: 6325665912371615624
+    second: 1pants_16
+  - first:
+      213: -1017987776996081679
+    second: 1pants_17
+  - first:
+      213: 9209581683773853478
+    second: 1pants_18
+  - first:
+      213: 323923369755472301
+    second: 1pants_19
+  - first:
+      213: 2025291671380277538
+    second: 1pants_20
+  - first:
+      213: 8448218874864656161
+    second: 1pants_21
+  - first:
+      213: -1041164690958342639
+    second: 1pants_22
+  - first:
+      213: -6526471034946746406
+    second: 1pants_23
+  - first:
+      213: 2604357864275422527
+    second: 1pants_24
+  - first:
+      213: -3294275042352964847
+    second: 1pants_25
+  - first:
+      213: 1911966569529761822
+    second: 1pants_26
+  - first:
+      213: -4354455725184915813
+    second: 1pants_27
+  - first:
+      213: 2978575454908036665
+    second: 1pants_28
+  - first:
+      213: 6631448831519650755
+    second: 1pants_29
+  - first:
+      213: -9166924393619853686
+    second: 1pants_30
+  - first:
+      213: -6461876626846323285
+    second: 1pants_31
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -199,7 +391,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: character_animation_0
+      name: 1pants_0
       rect:
         serializedVersion: 2
         x: 0
@@ -213,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc6185d234c126b50800000000000000
-      internalID: 6584856680018220751
+      spriteID: 1e70355808a1da6b0800000000000000
+      internalID: -5283537648540776479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_1
+      name: 1pants_1
       rect:
         serializedVersion: 2
         x: 32
@@ -234,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae943058f4b77f710800000000000000
-      internalID: 1726984563584092650
+      spriteID: 4743fc6e4f62bd190800000000000000
+      internalID: -7936707085024152460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_2
+      name: 1pants_2
       rect:
         serializedVersion: 2
         x: 64
@@ -255,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cf02e276d631eaa0800000000000000
-      internalID: -6133560922823585848
+      spriteID: 5a7ab66c7cc3d4920800000000000000
+      internalID: 2976101757486868389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_3
+      name: 1pants_3
       rect:
         serializedVersion: 2
         x: 96
@@ -276,14 +468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d1e7c75e81b6ab20800000000000000
-      internalID: 3145396614681059797
+      spriteID: b8739a664ac420e60800000000000000
+      internalID: 7926982563106207627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_4
+      name: 1pants_4
       rect:
         serializedVersion: 2
         x: 128
@@ -297,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 858ae1445fe8774e0800000000000000
-      internalID: -1983959926772422568
+      spriteID: d9bcff8861fd91d10800000000000000
+      internalID: 2096952389398416285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_5
+      name: 1pants_5
       rect:
         serializedVersion: 2
         x: 160
@@ -318,14 +510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ab292dee4b58d060800000000000000
-      internalID: 6978428017155058595
+      spriteID: 882af9c9d57d7e160800000000000000
+      internalID: 7054844138358809224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_6
+      name: 1pants_6
       rect:
         serializedVersion: 2
         x: 192
@@ -339,14 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 867a1f6ffc1feaad0800000000000000
-      internalID: -2688946051990050968
+      spriteID: 46fba6d8a7ba8ec70800000000000000
+      internalID: 9000632398146879332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_7
+      name: 1pants_7
       rect:
         serializedVersion: 2
         x: 224
@@ -360,14 +552,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cd3fcc17eb0e1490800000000000000
-      internalID: -7773762819546202688
+      spriteID: ce9173da29dd2f790800000000000000
+      internalID: -7497686807577421332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_8
+      name: 1pants_8
       rect:
         serializedVersion: 2
         x: 0
@@ -381,14 +573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32d488d2e4f35ee00800000000000000
-      internalID: 1073333691201637667
+      spriteID: 9ae8a31f45800e5a0800000000000000
+      internalID: -6494181501750833495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_9
+      name: 1pants_9
       rect:
         serializedVersion: 2
         x: 32
@@ -402,14 +594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4da7c0775a7f0e940800000000000000
-      internalID: 5323527049590897364
+      spriteID: b44377d4d07114840800000000000000
+      internalID: 5206467990118675531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_10
+      name: 1pants_10
       rect:
         serializedVersion: 2
         x: 64
@@ -423,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3e39913d08c9cdf0800000000000000
-      internalID: -159376352802685378
+      spriteID: d385c7765d3587a10800000000000000
+      internalID: 1907366618220746813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_11
+      name: 1pants_11
       rect:
         serializedVersion: 2
         x: 96
@@ -444,14 +636,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4e0f533d3cf14490800000000000000
-      internalID: -7763646942824952245
+      spriteID: a445a87832d09b8c0800000000000000
+      internalID: -3983137949183486902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_12
+      name: 1pants_12
       rect:
         serializedVersion: 2
         x: 128
@@ -465,14 +657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd65b022bdd316790800000000000000
-      internalID: -7538676289863199013
+      spriteID: 26d3eb1a542323750800000000000000
+      internalID: 6283139704782994786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_13
+      name: 1pants_13
       rect:
         serializedVersion: 2
         x: 160
@@ -486,14 +678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0e180563e6298770800000000000000
-      internalID: 8613458520417246732
+      spriteID: fac99e3a3b0810010800000000000000
+      internalID: 1153344488621055151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_14
+      name: 1pants_14
       rect:
         serializedVersion: 2
         x: 192
@@ -507,14 +699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b1bdea6c60721a80800000000000000
-      internalID: -8497605935941963341
+      spriteID: d403e3f8aabedbc50800000000000000
+      internalID: 6682756539867869261
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_15
+      name: 1pants_15
       rect:
         serializedVersion: 2
         x: 224
@@ -528,14 +720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 313e660bbecf513c0800000000000000
-      internalID: -4389324172595633389
+      spriteID: d470a542986d9d820800000000000000
+      internalID: 2943619715972073293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_16
+      name: 1pants_16
       rect:
         serializedVersion: 2
         x: 0
@@ -549,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69f6ccfacb08a53d0800000000000000
-      internalID: -3217117435911180394
+      spriteID: 88715bae1a749c750800000000000000
+      internalID: 6325665912371615624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_17
+      name: 1pants_17
       rect:
         serializedVersion: 2
         x: 32
@@ -570,14 +762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 092c3ecd7e334dc20800000000000000
-      internalID: 3230263903667864208
+      spriteID: 1ff7576a2816fd1f0800000000000000
+      internalID: -1017987776996081679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_18
+      name: 1pants_18
       rect:
         serializedVersion: 2
         x: 64
@@ -591,14 +783,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ec6b9c881ff04440800000000000000
-      internalID: 4918211273991875814
+      spriteID: 62fc8473fb10fcf70800000000000000
+      internalID: 9209581683773853478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_19
+      name: 1pants_19
       rect:
         serializedVersion: 2
         x: 96
@@ -612,14 +804,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f2c6f64a4da153e0800000000000000
-      internalID: -2066680219456584975
+      spriteID: da1f8bca69ece7400800000000000000
+      internalID: 323923369755472301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_20
+      name: 1pants_20
       rect:
         serializedVersion: 2
         x: 128
@@ -633,14 +825,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de9920ee04b79bbf0800000000000000
-      internalID: -308079580696897043
+      spriteID: 229bd2f6b084b1c10800000000000000
+      internalID: 2025291671380277538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_21
+      name: 1pants_21
       rect:
         serializedVersion: 2
         x: 160
@@ -654,14 +846,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 235640fee5a892810800000000000000
-      internalID: 1741074871297008946
+      spriteID: 12fde0d5e4a1e3570800000000000000
+      internalID: 8448218874864656161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_22
+      name: 1pants_22
       rect:
         serializedVersion: 2
         x: 192
@@ -675,14 +867,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5e3aa3dcfcbc0cb0800000000000000
-      internalID: -4896330900789641637
+      spriteID: 116afbada3a0d81f0800000000000000
+      internalID: -1041164690958342639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_23
+      name: 1pants_23
       rect:
         serializedVersion: 2
         x: 224
@@ -696,14 +888,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d6af92a443f00a10800000000000000
-      internalID: 1873764921097823953
+      spriteID: ad78f152c215d65a0800000000000000
+      internalID: -6526471034946746406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_24
+      name: 1pants_24
       rect:
         serializedVersion: 2
         x: 0
@@ -717,14 +909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06f6918bcda4b5800800000000000000
-      internalID: 602157287026028384
+      spriteID: f3da128dda9842420800000000000000
+      internalID: 2604357864275422527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_25
+      name: 1pants_25
       rect:
         serializedVersion: 2
         x: 32
@@ -738,14 +930,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d467f7451b3cee20800000000000000
-      internalID: 3381142382836147412
+      spriteID: 11bdd148d426842d0800000000000000
+      internalID: -3294275042352964847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_26
+      name: 1pants_26
       rect:
         serializedVersion: 2
         x: 64
@@ -759,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f1932fd1d14975c0800000000000000
-      internalID: -4217267206408138256
+      spriteID: e106e37077ba88a10800000000000000
+      internalID: 1911966569529761822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_27
+      name: 1pants_27
       rect:
         serializedVersion: 2
         x: 96
@@ -780,14 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75300953210594c00800000000000000
-      internalID: 885326840893277015
+      spriteID: b96ef2eb69dd193c0800000000000000
+      internalID: -4354455725184915813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_28
+      name: 1pants_28
       rect:
         serializedVersion: 2
         x: 128
@@ -801,14 +993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a5ee97d4eb2b6b90800000000000000
-      internalID: -7247650913452628573
+      spriteID: 936bd765896065920800000000000000
+      internalID: 2978575454908036665
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_29
+      name: 1pants_29
       rect:
         serializedVersion: 2
         x: 160
@@ -822,14 +1014,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13badce5cfbb8c300800000000000000
-      internalID: 272674470052604721
+      spriteID: 3c378ecc393a70c50800000000000000
+      internalID: 6631448831519650755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_30
+      name: 1pants_30
       rect:
         serializedVersion: 2
         x: 192
@@ -843,14 +1035,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b20e36315abf43dd0800000000000000
-      internalID: -2507102406125035477
+      spriteID: a8eec6b15da88c080800000000000000
+      internalID: -9166924393619853686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_31
+      name: 1pants_31
       rect:
         serializedVersion: 2
         x: 224
@@ -864,8 +1056,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba55fba8134a28130800000000000000
-      internalID: 3567594387519002027
+      spriteID: badec62c17dc256a0800000000000000
+      internalID: -6461876626846323285
       vertices: []
       indices: 
       edges: []

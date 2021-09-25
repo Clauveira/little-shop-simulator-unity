@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: fc0cb250e67b8ac45aa6d71eef90ad67
+guid: 37eadc328b70f9f40863b0eea7a90027
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1105711513228805575
-    second: pants_black_0
+      213: -8946574158342119594
+    second: hair_braids_brown_0
   - first:
-      213: 3672492870505897617
-    second: pants_black_1
+      213: 4406306219288230997
+    second: hair_braids_brown_1
   - first:
-      213: -6078691636174899413
-    second: pants_black_2
+      213: -8252667158603213604
+    second: hair_braids_brown_2
   - first:
-      213: -8562704813885174470
-    second: pants_black_3
+      213: -2823297532612907319
+    second: hair_braids_brown_3
   - first:
-      213: 3433941911012986499
-    second: pants_black_4
+      213: 6315392313827829745
+    second: hair_braids_brown_4
   - first:
-      213: 6995697526456674945
-    second: pants_black_5
+      213: 578369949428308369
+    second: hair_braids_brown_5
   - first:
-      213: 5051549214945419051
-    second: pants_black_6
+      213: 6203477300133961135
+    second: hair_braids_brown_6
   - first:
-      213: -7353200566586889683
-    second: pants_black_7
+      213: -8494532017784050647
+    second: hair_braids_brown_7
   - first:
-      213: -2807747169944987486
-    second: pants_black_8
+      213: -6667343033941441050
+    second: hair_braids_brown_8
   - first:
-      213: -5786096947063088991
-    second: pants_black_9
+      213: -5252532494994432739
+    second: hair_braids_brown_9
   - first:
-      213: -1071129674697280440
-    second: pants_black_10
+      213: -1602442385989656664
+    second: hair_braids_brown_10
   - first:
-      213: 8670014348071727966
-    second: pants_black_11
+      213: 1787426828837971919
+    second: hair_braids_brown_11
   - first:
-      213: 1300605731350976551
-    second: pants_black_12
+      213: 4135436975114226011
+    second: hair_braids_brown_12
   - first:
-      213: -2683782298167358521
-    second: pants_black_13
+      213: 6528831823194627411
+    second: hair_braids_brown_13
   - first:
-      213: -2869791241799153076
-    second: pants_black_14
+      213: -1812962397223510986
+    second: hair_braids_brown_14
   - first:
-      213: 4599097249439702685
-    second: pants_black_15
+      213: -5413086253119478671
+    second: hair_braids_brown_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -96,7 +96,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -151,7 +151,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pants_black_0
+      name: hair_braids_brown_0
       rect:
         serializedVersion: 2
         x: 0
@@ -165,14 +165,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93affedac39b7a0f0800000000000000
-      internalID: -1105711513228805575
+      spriteID: 65f1457343267d380800000000000000
+      internalID: -8946574158342119594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_1
+      name: hair_braids_brown_1
       rect:
         serializedVersion: 2
         x: 32
@@ -186,14 +186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19e98aadec057f230800000000000000
-      internalID: 3672492870505897617
+      spriteID: 55cf44c2928562d30800000000000000
+      internalID: 4406306219288230997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_2
+      name: hair_braids_brown_2
       rect:
         serializedVersion: 2
         x: 64
@@ -207,14 +207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2738a6c92624aba0800000000000000
-      internalID: -6078691636174899413
+      spriteID: cd45ce991f2a87d80800000000000000
+      internalID: -8252667158603213604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_3
+      name: hair_braids_brown_3
       rect:
         serializedVersion: 2
         x: 96
@@ -228,14 +228,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3dc8d3c6592b2980800000000000000
-      internalID: -8562704813885174470
+      spriteID: 9ceee514ad1a1d8d0800000000000000
+      internalID: -2823297532612907319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_4
+      name: hair_braids_brown_4
       rect:
         serializedVersion: 2
         x: 128
@@ -249,14 +249,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38e414969ffc7af20800000000000000
-      internalID: 3433941911012986499
+      spriteID: 1f7a0fa59d7c4a750800000000000000
+      internalID: 6315392313827829745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_5
+      name: hair_braids_brown_5
       rect:
         serializedVersion: 2
         x: 160
@@ -270,14 +270,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18a6784e5d5b51160800000000000000
-      internalID: 6995697526456674945
+      spriteID: 1995f689768c60800800000000000000
+      internalID: 578369949428308369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_6
+      name: hair_braids_brown_6
       rect:
         serializedVersion: 2
         x: 192
@@ -291,14 +291,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2f993a2f35ba1640800000000000000
-      internalID: 5051549214945419051
+      spriteID: fad1faeacbd271650800000000000000
+      internalID: 6203477300133961135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_7
+      name: hair_braids_brown_7
       rect:
         serializedVersion: 2
         x: 224
@@ -312,14 +312,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2a236a2b0f24f990800000000000000
-      internalID: -7353200566586889683
+      spriteID: 92cacc2c22c5d1a80800000000000000
+      internalID: -8494532017784050647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_8
+      name: hair_braids_brown_8
       rect:
         serializedVersion: 2
         x: 0
@@ -333,14 +333,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a8125433d0e809d0800000000000000
-      internalID: -2807747169944987486
+      spriteID: 6e5ce32f5d6d873a0800000000000000
+      internalID: -6667343033941441050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_9
+      name: hair_braids_brown_9
       rect:
         serializedVersion: 2
         x: 32
@@ -354,14 +354,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a815529b77a3bfa0800000000000000
-      internalID: -5786096947063088991
+      spriteID: d1d19a066814b17b0800000000000000
+      internalID: -5252532494994432739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_10
+      name: hair_braids_brown_10
       rect:
         serializedVersion: 2
         x: 64
@@ -375,14 +375,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 844f9476c359221f0800000000000000
-      internalID: -1071129674697280440
+      spriteID: 8af9e0ad32bf2c9e0800000000000000
+      internalID: -1602442385989656664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_11
+      name: hair_braids_brown_11
       rect:
         serializedVersion: 2
         x: 96
@@ -396,14 +396,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e53fa562d14125870800000000000000
-      internalID: 8670014348071727966
+      spriteID: fc7e3ea0b373ec810800000000000000
+      internalID: 1787426828837971919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_12
+      name: hair_braids_brown_12
       rect:
         serializedVersion: 2
         x: 128
@@ -417,14 +417,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7281302950eac0210800000000000000
-      internalID: 1300605731350976551
+      spriteID: b5903b4b406046930800000000000000
+      internalID: 4135436975114226011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_13
+      name: hair_braids_brown_13
       rect:
         serializedVersion: 2
         x: 160
@@ -438,14 +438,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cbc047183a41cad0800000000000000
-      internalID: -2683782298167358521
+      spriteID: 35d18c3b3f11b9a50800000000000000
+      internalID: 6528831823194627411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_14
+      name: hair_braids_brown_14
       rect:
         serializedVersion: 2
         x: 192
@@ -459,14 +459,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4ac80502147c28d0800000000000000
-      internalID: -2869791241799153076
+      spriteID: 63c1a522e4017d6e0800000000000000
+      internalID: -1812962397223510986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pants_black_15
+      name: hair_braids_brown_15
       rect:
         serializedVersion: 2
         x: 224
@@ -480,8 +480,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9e5450d49643df30800000000000000
-      internalID: 4599097249439702685
+      spriteID: 17463488bbad0e4b0800000000000000
+      internalID: -5413086253119478671
       vertices: []
       indices: 
       edges: []

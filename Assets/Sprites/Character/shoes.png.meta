@@ -1,103 +1,151 @@
 fileFormatVersion: 2
-guid: 4c7081b0600b1c84f8e37cb7d6f84ff7
+guid: 3f51d46499e991846ab1f4bccdd6e3a6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6584856680018220751
-    second: character_animation_0
+      213: -5306309929238871178
+    second: shoes_brown_0
   - first:
-      213: 1726984563584092650
-    second: character_animation_1
+      213: -3351950636692286643
+    second: shoes_brown_1
   - first:
-      213: -6133560922823585848
-    second: character_animation_2
+      213: 312186654520479913
+    second: shoes_brown_2
   - first:
-      213: 3145396614681059797
-    second: character_animation_3
+      213: -5960549914624893390
+    second: shoes_brown_3
   - first:
-      213: -1983959926772422568
-    second: character_animation_4
+      213: 4623095380464060721
+    second: shoes_brown_4
   - first:
-      213: 6978428017155058595
-    second: character_animation_5
+      213: -4964776649107938318
+    second: shoes_brown_5
   - first:
-      213: -2688946051990050968
-    second: character_animation_6
+      213: -6757266898205633073
+    second: shoes_brown_6
   - first:
-      213: -7773762819546202688
-    second: character_animation_7
+      213: -3323273180504212804
+    second: shoes_brown_7
   - first:
-      213: 1073333691201637667
-    second: character_animation_8
+      213: -7519845991100538828
+    second: shoes_brown_8
   - first:
-      213: 5323527049590897364
-    second: character_animation_9
+      213: -177983384758577564
+    second: shoes_brown_9
   - first:
-      213: -159376352802685378
-    second: character_animation_10
+      213: 5401266001983633769
+    second: shoes_brown_10
   - first:
-      213: -7763646942824952245
-    second: character_animation_11
+      213: 5122907906515252455
+    second: shoes_brown_11
   - first:
-      213: -7538676289863199013
-    second: character_animation_12
+      213: -2454567582755414088
+    second: shoes_brown_12
   - first:
-      213: 8613458520417246732
-    second: character_animation_13
+      213: -9043849243553937197
+    second: shoes_brown_13
   - first:
-      213: -8497605935941963341
-    second: character_animation_14
+      213: -4551514611931039197
+    second: shoes_brown_14
   - first:
-      213: -4389324172595633389
-    second: character_animation_15
+      213: 5308686947748055244
+    second: shoes_brown_15
   - first:
-      213: -3217117435911180394
-    second: character_animation_16
+      213: -4609764937589784581
+    second: shoes_0
   - first:
-      213: 3230263903667864208
-    second: character_animation_17
+      213: -653813295066310515
+    second: shoes_1
   - first:
-      213: 4918211273991875814
-    second: character_animation_18
+      213: 1630994456797430088
+    second: shoes_2
   - first:
-      213: -2066680219456584975
-    second: character_animation_19
+      213: 2011952092250852433
+    second: shoes_3
   - first:
-      213: -308079580696897043
-    second: character_animation_20
+      213: 5950864208034075289
+    second: shoes_4
   - first:
-      213: 1741074871297008946
-    second: character_animation_21
+      213: 7574043656731186344
+    second: shoes_5
   - first:
-      213: -4896330900789641637
-    second: character_animation_22
+      213: -7156097056923478688
+    second: shoes_6
   - first:
-      213: 1873764921097823953
-    second: character_animation_23
+      213: -7783804465705248237
+    second: shoes_7
   - first:
-      213: 602157287026028384
-    second: character_animation_24
+      213: -1772191180002837628
+    second: shoes_8
   - first:
-      213: 3381142382836147412
-    second: character_animation_25
+      213: -7315780601780210913
+    second: shoes_9
   - first:
-      213: -4217267206408138256
-    second: character_animation_26
+      213: -4386354591724255606
+    second: shoes_10
   - first:
-      213: 885326840893277015
-    second: character_animation_27
+      213: 5424253034753973855
+    second: shoes_11
   - first:
-      213: -7247650913452628573
-    second: character_animation_28
+      213: -380153665846800569
+    second: shoes_12
   - first:
-      213: 272674470052604721
-    second: character_animation_29
+      213: 3751362570858292011
+    second: shoes_13
   - first:
-      213: -2507102406125035477
-    second: character_animation_30
+      213: -2740471183955978490
+    second: shoes_14
   - first:
-      213: 3567594387519002027
-    second: character_animation_31
+      213: -8679922579188675757
+    second: shoes_15
+  - first:
+      213: -4948960367500035576
+    second: shoes_16
+  - first:
+      213: -4025179087161218155
+    second: shoes_17
+  - first:
+      213: 3412237421076418286
+    second: shoes_18
+  - first:
+      213: 7371490050734098174
+    second: shoes_19
+  - first:
+      213: -8699257902162035469
+    second: shoes_20
+  - first:
+      213: -7855397721896664121
+    second: shoes_21
+  - first:
+      213: -4879831137919230453
+    second: shoes_22
+  - first:
+      213: 6786728476411748655
+    second: shoes_23
+  - first:
+      213: 7562553143777846954
+    second: shoes_24
+  - first:
+      213: 4009280608091675101
+    second: shoes_25
+  - first:
+      213: 686435655957447087
+    second: shoes_26
+  - first:
+      213: 8358676928442726368
+    second: shoes_27
+  - first:
+      213: 6976303771779106194
+    second: shoes_28
+  - first:
+      213: -4092118020501900223
+    second: shoes_29
+  - first:
+      213: -3692114078644840652
+    second: shoes_30
+  - first:
+      213: 504741930715329896
+    second: shoes_31
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -144,7 +192,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 0
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -199,7 +247,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: character_animation_0
+      name: shoes_0
       rect:
         serializedVersion: 2
         x: 0
@@ -213,14 +261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc6185d234c126b50800000000000000
-      internalID: 6584856680018220751
+      spriteID: bfff8ec7633d600c0800000000000000
+      internalID: -4609764937589784581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_1
+      name: shoes_1
       rect:
         serializedVersion: 2
         x: 32
@@ -234,14 +282,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae943058f4b77f710800000000000000
-      internalID: 1726984563584092650
+      spriteID: d88152ea5403de6f0800000000000000
+      internalID: -653813295066310515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_2
+      name: shoes_2
       rect:
         serializedVersion: 2
         x: 64
@@ -255,14 +303,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cf02e276d631eaa0800000000000000
-      internalID: -6133560922823585848
+      spriteID: 841ca0c21d472a610800000000000000
+      internalID: 1630994456797430088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_3
+      name: shoes_3
       rect:
         serializedVersion: 2
         x: 96
@@ -276,14 +324,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d1e7c75e81b6ab20800000000000000
-      internalID: 3145396614681059797
+      spriteID: 15c47b3a4c3ebeb10800000000000000
+      internalID: 2011952092250852433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_4
+      name: shoes_4
       rect:
         serializedVersion: 2
         x: 128
@@ -297,14 +345,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 858ae1445fe8774e0800000000000000
-      internalID: -1983959926772422568
+      spriteID: 992157ad777b59250800000000000000
+      internalID: 5950864208034075289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_5
+      name: shoes_5
       rect:
         serializedVersion: 2
         x: 160
@@ -318,14 +366,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ab292dee4b58d060800000000000000
-      internalID: 6978428017155058595
+      spriteID: 8a453c8a3986c1960800000000000000
+      internalID: 7574043656731186344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_6
+      name: shoes_6
       rect:
         serializedVersion: 2
         x: 192
@@ -339,14 +387,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 867a1f6ffc1feaad0800000000000000
-      internalID: -2688946051990050968
+      spriteID: 0659bdf24af60bc90800000000000000
+      internalID: -7156097056923478688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_7
+      name: shoes_7
       rect:
         serializedVersion: 2
         x: 224
@@ -360,14 +408,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cd3fcc17eb0e1490800000000000000
-      internalID: -7773762819546202688
+      spriteID: 31a1a8c241f5af390800000000000000
+      internalID: -7783804465705248237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_8
+      name: shoes_8
       rect:
         serializedVersion: 2
         x: 0
@@ -381,14 +429,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32d488d2e4f35ee00800000000000000
-      internalID: 1073333691201637667
+      spriteID: 48bb9d1e289e767e0800000000000000
+      internalID: -1772191180002837628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_9
+      name: shoes_9
       rect:
         serializedVersion: 2
         x: 32
@@ -402,14 +450,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4da7c0775a7f0e940800000000000000
-      internalID: 5323527049590897364
+      spriteID: f137238ad40297a90800000000000000
+      internalID: -7315780601780210913
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_10
+      name: shoes_10
       rect:
         serializedVersion: 2
         x: 64
@@ -423,14 +471,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3e39913d08c9cdf0800000000000000
-      internalID: -159376352802685378
+      spriteID: a864f5d1db98023c0800000000000000
+      internalID: -4386354591724255606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_11
+      name: shoes_11
       rect:
         serializedVersion: 2
         x: 96
@@ -444,14 +492,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4e0f533d3cf14490800000000000000
-      internalID: -7763646942824952245
+      spriteID: f5e585c6561d64b40800000000000000
+      internalID: 5424253034753973855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_12
+      name: shoes_12
       rect:
         serializedVersion: 2
         x: 128
@@ -465,14 +513,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd65b022bdd316790800000000000000
-      internalID: -7538676289863199013
+      spriteID: 74f832b414c69baf0800000000000000
+      internalID: -380153665846800569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_13
+      name: shoes_13
       rect:
         serializedVersion: 2
         x: 160
@@ -486,14 +534,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0e180563e6298770800000000000000
-      internalID: 8613458520417246732
+      spriteID: b2364b3f1648f0430800000000000000
+      internalID: 3751362570858292011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_14
+      name: shoes_14
       rect:
         serializedVersion: 2
         x: 192
@@ -507,14 +555,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b1bdea6c60721a80800000000000000
-      internalID: -8497605935941963341
+      spriteID: 6071c135af3e7f9d0800000000000000
+      internalID: -2740471183955978490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_15
+      name: shoes_15
       rect:
         serializedVersion: 2
         x: 224
@@ -528,14 +576,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 313e660bbecf513c0800000000000000
-      internalID: -4389324172595633389
+      spriteID: 35b01950768ba8780800000000000000
+      internalID: -8679922579188675757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_16
+      name: shoes_16
       rect:
         serializedVersion: 2
         x: 0
@@ -549,14 +597,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69f6ccfacb08a53d0800000000000000
-      internalID: -3217117435911180394
+      spriteID: 80a7ca734c2c15bb0800000000000000
+      internalID: -4948960367500035576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_17
+      name: shoes_17
       rect:
         serializedVersion: 2
         x: 32
@@ -570,14 +618,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 092c3ecd7e334dc20800000000000000
-      internalID: 3230263903667864208
+      spriteID: 59bac6052f0b328c0800000000000000
+      internalID: -4025179087161218155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_18
+      name: shoes_18
       rect:
         serializedVersion: 2
         x: 64
@@ -591,14 +639,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ec6b9c881ff04440800000000000000
-      internalID: 4918211273991875814
+      spriteID: eee0e8c0bd3ba5f20800000000000000
+      internalID: 3412237421076418286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_19
+      name: shoes_19
       rect:
         serializedVersion: 2
         x: 96
@@ -612,14 +660,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f2c6f64a4da153e0800000000000000
-      internalID: -2066680219456584975
+      spriteID: ef60553352bcc4660800000000000000
+      internalID: 7371490050734098174
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_20
+      name: shoes_20
       rect:
         serializedVersion: 2
         x: 128
@@ -633,14 +681,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de9920ee04b79bbf0800000000000000
-      internalID: -308079580696897043
+      spriteID: 3fc3f145707064780800000000000000
+      internalID: -8699257902162035469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_21
+      name: shoes_21
       rect:
         serializedVersion: 2
         x: 160
@@ -654,14 +702,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 235640fee5a892810800000000000000
-      internalID: 1741074871297008946
+      spriteID: 7c3cfe044650cf290800000000000000
+      internalID: -7855397721896664121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_22
+      name: shoes_22
       rect:
         serializedVersion: 2
         x: 192
@@ -675,14 +723,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5e3aa3dcfcbc0cb0800000000000000
-      internalID: -4896330900789641637
+      spriteID: b0e1f6c3f6b574cb0800000000000000
+      internalID: -4879831137919230453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_23
+      name: shoes_23
       rect:
         serializedVersion: 2
         x: 224
@@ -696,14 +744,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d6af92a443f00a10800000000000000
-      internalID: 1873764921097823953
+      spriteID: f21ec87779d4f2e50800000000000000
+      internalID: 6786728476411748655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_24
+      name: shoes_24
       rect:
         serializedVersion: 2
         x: 0
@@ -717,14 +765,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06f6918bcda4b5800800000000000000
-      internalID: 602157287026028384
+      spriteID: aa664e1240693f860800000000000000
+      internalID: 7562553143777846954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_25
+      name: shoes_25
       rect:
         serializedVersion: 2
         x: 32
@@ -738,14 +786,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d467f7451b3cee20800000000000000
-      internalID: 3381142382836147412
+      spriteID: dd99a229873d3a730800000000000000
+      internalID: 4009280608091675101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_26
+      name: shoes_26
       rect:
         serializedVersion: 2
         x: 64
@@ -759,14 +807,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f1932fd1d14975c0800000000000000
-      internalID: -4217267206408138256
+      spriteID: fa1818a9795b68900800000000000000
+      internalID: 686435655957447087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_27
+      name: shoes_27
       rect:
         serializedVersion: 2
         x: 96
@@ -780,14 +828,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75300953210594c00800000000000000
-      internalID: 885326840893277015
+      spriteID: 0e7f418516cfff370800000000000000
+      internalID: 8358676928442726368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_28
+      name: shoes_28
       rect:
         serializedVersion: 2
         x: 128
@@ -801,14 +849,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a5ee97d4eb2b6b90800000000000000
-      internalID: -7247650913452628573
+      spriteID: 2958c12815fc0d060800000000000000
+      internalID: 6976303771779106194
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_29
+      name: shoes_29
       rect:
         serializedVersion: 2
         x: 160
@@ -822,14 +870,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13badce5cfbb8c300800000000000000
-      internalID: 272674470052604721
+      spriteID: 14472016750e537c0800000000000000
+      internalID: -4092118020501900223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_30
+      name: shoes_30
       rect:
         serializedVersion: 2
         x: 192
@@ -843,14 +891,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b20e36315abf43dd0800000000000000
-      internalID: -2507102406125035477
+      spriteID: 437d720aec9f2ccc0800000000000000
+      internalID: -3692114078644840652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character_animation_31
+      name: shoes_31
       rect:
         serializedVersion: 2
         x: 224
@@ -864,8 +912,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba55fba8134a28130800000000000000
-      internalID: 3567594387519002027
+      spriteID: 865388b9c14310700800000000000000
+      internalID: 504741930715329896
       vertices: []
       indices: 
       edges: []
