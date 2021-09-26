@@ -10,6 +10,9 @@ public class PlayerMovement : MonoBehaviour
 
     Vector2 movement;
 
+    private Inventory inventory;
+
+
     void Start()
     {
     }
@@ -17,6 +20,10 @@ public class PlayerMovement : MonoBehaviour
     {
         Move();
         Animate();
+    }
+
+    private void Awake(){
+        inventory = new Inventory();
     }
 
     void Move()
