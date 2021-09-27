@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UI_Inventory : MonoBehaviour
 {
@@ -19,7 +20,9 @@ public class UI_Inventory : MonoBehaviour
 
     private void FindItemReference(){
         itemSlotContainer = transform.Find("itemSlotContainer");
-        itemSlotTemplate = itemSlotContainer.Find("itemSlotTemplate");
+        if (itemSlotTemplate == null) {
+            itemSlotTemplate = itemSlotContainer.Find("itemSlotTemplate");
+        }
     }
 
     private void RefreshInventoryIntems(){
@@ -28,13 +31,20 @@ public class UI_Inventory : MonoBehaviour
         float itemSlotCellSize = 30f;
         
         if (itemSlotContainer == null || itemSlotTemplate == null) {
-            FindItemReference();
+           FindItemReference();
         }
 
         foreach (Item item in inventory.GetItemList()) {
             RectTransform itemSlotRectTransform = Instantiate(itemSlotTemplate, itemSlotContainer).GetComponent<RectTransform>();
             itemSlotRectTransform.gameObject.SetActive(true);
             itemSlotRectTransform.anchoredPosition = new Vector2(x * itemSlotCellSize, -y * itemSlotCellSize);
+
+            Image image = itemSlotRectTransform.Find("image").GetComponent<Image>();
+            
+            image.sprite = item.GetSprite();
+            image.color = item.color;
+
+
             x++;
             if (x > 3) {
                 x = 0;

@@ -8,11 +8,27 @@ public class Item
     public enum ItemType {
         Shirt,
         Pants,
-        Shoes
+        Shoes,
     }
 
     public ItemType itemType;
     public int Id;
     public Color color;
     public int price;
+
+    public Sprite GetSprite() {
+        switch (itemType) {
+            default:
+            case ItemType.Shirt: return ItemAssets.Instance.shirtsSprite;
+            case ItemType.Pants: return ItemAssets.Instance.pantsSprite;
+            case ItemType.Shoes: return ItemAssets.Instance.shoesSprite;
+        }
+    }
+
+    public void Rantomize(){
+        Id = 0;
+        itemType = (ItemType)Random.Range(0, 2);
+        color = Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
+        price = Random.Range(190, 300);
+    }
 }

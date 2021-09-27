@@ -44,6 +44,9 @@ TextureImporter:
   - first:
       213: -1312994402987499043
     second: Objects_13
+  - first:
+      213: 8575179032478902733
+    second: Selection
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -434,6 +437,27 @@ TextureImporter:
       bones: []
       spriteID: dd1aad90c8e47cde0800000000000000
       internalID: -1312994402987499043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selection
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9684495e7210770800000000000000
+      internalID: 8575179032478902733
       vertices: []
       indices: 
       edges: []
