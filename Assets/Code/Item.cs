@@ -27,8 +27,9 @@ public class Item
 
     public void Rantomize(){
         Id = 0;
-        itemType = (ItemType)Random.Range(0, 2);
-        color = Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
+        itemType = (ItemType)Random.Range(0, 3);
+        //color = Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
+        color = new Color(Random.Range(0f, 1f),Random.Range(0f, 1f),Random.Range(0f, 1f));
         price = Random.Range(190, 300);
     }
 }
