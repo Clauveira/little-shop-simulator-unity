@@ -12,7 +12,7 @@ public class Player : MonoBehaviour
 
     [SerializeField] private UI_Inventory uiBuyingInventory;
 
-    private Inventory inventory;
+    private Inventory buyingInventory;
 
 
     void Start()
@@ -25,8 +25,8 @@ public class Player : MonoBehaviour
     }
 
     private void Awake(){
-        inventory = new Inventory();
-        uiBuyingInventory.SetInventory(inventory);
+        buyingInventory = new Inventory();
+        uiBuyingInventory.SetInventory(buyingInventory);
     }
 
     void Move()
@@ -55,5 +55,9 @@ public class Player : MonoBehaviour
     void FixedUpdate()
     {
         rigidbody.MovePosition(rigidbody.position + movement.normalized * speed * Time.fixedDeltaTime);
+    }
+
+    public Inventory getInventory(){
+        return buyingInventory;
     }
 }

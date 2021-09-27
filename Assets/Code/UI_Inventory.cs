@@ -52,4 +52,15 @@ public class UI_Inventory : MonoBehaviour
             }
         }
     }
+
+    public void AddBuyingItem(StoreSlot slot){
+        /*
+        inventory.AddItem(item);
+        RefreshInventoryIntems();*/
+        if (!inventory.getIsFull()){
+            inventory.AddItem(slot.getItem());
+            RefreshInventoryIntems();
+            slot.saleAccepted();
+        }
+    }
 }

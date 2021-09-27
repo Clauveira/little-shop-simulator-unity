@@ -3,7 +3,11 @@ guid: 70b3ca727f9bd9d42bd6ec569a4731cb
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - noSprite: {fileID: 8033092973025764044, guid: de697a0bf1539e34eb5d61bd77635c37, type: 3}
+  - shirtsSprite: {fileID: -488721925442295091, guid: de697a0bf1539e34eb5d61bd77635c37, type: 3}
+  - pantsSprite: {fileID: -7573354855677281409, guid: de697a0bf1539e34eb5d61bd77635c37, type: 3}
+  - shoesSprite: {fileID: 1801263428120863714, guid: de697a0bf1539e34eb5d61bd77635c37, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

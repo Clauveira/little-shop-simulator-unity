@@ -6,6 +6,7 @@ using UnityEngine;
 public class Item
 {
     public enum ItemType {
+        None,
         Shirt,
         Pants,
         Shoes,
@@ -19,17 +20,24 @@ public class Item
     public Sprite GetSprite() {
         switch (itemType) {
             default:
+            case ItemType.None: return ItemAssets.Instance.noSprite;
             case ItemType.Shirt: return ItemAssets.Instance.shirtsSprite;
             case ItemType.Pants: return ItemAssets.Instance.pantsSprite;
             case ItemType.Shoes: return ItemAssets.Instance.shoesSprite;
         }
     }
 
-    public void Rantomize(){
+    public void Randomize(){
         Id = 0;
-        itemType = (ItemType)Random.Range(0, 3);
-        //color = Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
+        itemType = (ItemType)Random.Range(1, 4);
         color = new Color(Random.Range(0f, 1f),Random.Range(0f, 1f),Random.Range(0f, 1f));
         price = Random.Range(190, 300);
     }
+    public void Buy(){
+        Id = 0;
+        itemType = ItemType.None;
+        color = new Color(1f,0.99f,0.9f);
+        price = 0;
+    }
+
 }

@@ -12,6 +12,7 @@ public class ItemAssets : MonoBehaviour
         Instance = this;
     }
 
+    public Sprite noSprite;
     public Sprite shirtsSprite;
     public Sprite pantsSprite;
     public Sprite shoesSprite;
