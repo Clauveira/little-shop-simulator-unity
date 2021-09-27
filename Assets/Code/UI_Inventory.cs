@@ -44,7 +44,6 @@ public class UI_Inventory : MonoBehaviour
             image.sprite = item.GetSprite();
             image.color = item.color;
 
-
             x++;
             if (x > 3) {
                 x = 0;
@@ -54,9 +53,6 @@ public class UI_Inventory : MonoBehaviour
     }
 
     public void AddBuyingItem(StoreSlot slot){
-        /*
-        inventory.AddItem(item);
-        RefreshInventoryIntems();*/
         if (!inventory.getIsFull()){
             inventory.AddItem(slot.getItem());
             RefreshInventoryIntems();

@@ -5,16 +5,13 @@ using UnityEngine;
 
 public class StoreSlot : MonoBehaviour
 {
-    
+    private Item item = new Item();
     private Transform Player;
     public Button button;
     public SpriteRenderer sprite;
     private float actualDistance;
     private float minimumDistance = 1f;
-
     private bool is_sold = false;
-
-    private Item item = new Item();
     
     void Start()
     {
@@ -36,16 +33,6 @@ public class StoreSlot : MonoBehaviour
     }
 
     public void tryBuy(){
-        /*
-        SendMessageUpwards("AddBuyingItem", item);
-        item = new Item();
-        item.Buy();
-        sprite.sprite = item.GetSprite();
-        sprite.color = item.color;
-        is_sold = true;
-        button.interactable = false;*/
-        //sprite.sprite = null;
-
         SendMessageUpwards("AddBuyingItem", this);
     }
 
@@ -61,8 +48,4 @@ public class StoreSlot : MonoBehaviour
     public Item getItem(){
         return item;
     }
-    
-
-
-
 }
