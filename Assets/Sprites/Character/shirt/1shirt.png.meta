@@ -98,6 +98,102 @@ TextureImporter:
   - first:
       213: 331645423865145339
     second: shirt_basic_red_31
+  - first:
+      213: -4776050548277455193
+    second: 1shirt_0
+  - first:
+      213: -3175454892025253600
+    second: 1shirt_1
+  - first:
+      213: -1329548879731389975
+    second: 1shirt_2
+  - first:
+      213: -7606522447517660022
+    second: 1shirt_3
+  - first:
+      213: 609932573166058057
+    second: 1shirt_4
+  - first:
+      213: 4091866782444441521
+    second: 1shirt_5
+  - first:
+      213: -4081595555473211011
+    second: 1shirt_6
+  - first:
+      213: -6834409371979073022
+    second: 1shirt_7
+  - first:
+      213: -4994122351308003943
+    second: 1shirt_8
+  - first:
+      213: 1605579424492814649
+    second: 1shirt_9
+  - first:
+      213: 4464092922878332240
+    second: 1shirt_10
+  - first:
+      213: -1965508527161912197
+    second: 1shirt_11
+  - first:
+      213: 2768265559454582237
+    second: 1shirt_12
+  - first:
+      213: -7861009577286104162
+    second: 1shirt_13
+  - first:
+      213: -3305632278243904374
+    second: 1shirt_14
+  - first:
+      213: -3685436203793546201
+    second: 1shirt_15
+  - first:
+      213: 2693819757320878985
+    second: 1shirt_16
+  - first:
+      213: -8214892157810321998
+    second: 1shirt_17
+  - first:
+      213: -7769494198360778527
+    second: 1shirt_18
+  - first:
+      213: 6735953949157515841
+    second: 1shirt_19
+  - first:
+      213: -3099641066392196628
+    second: 1shirt_20
+  - first:
+      213: 4599840513817416770
+    second: 1shirt_21
+  - first:
+      213: -1123869833308497220
+    second: 1shirt_22
+  - first:
+      213: 6108743961015519886
+    second: 1shirt_23
+  - first:
+      213: -5588031985833958973
+    second: 1shirt_24
+  - first:
+      213: -8025437593945443225
+    second: 1shirt_25
+  - first:
+      213: -5516610301101965459
+    second: 1shirt_26
+  - first:
+      213: 1151993860840602729
+    second: 1shirt_27
+  - first:
+      213: -4720144314140455593
+    second: 1shirt_28
+  - first:
+      213: 1333928991120612588
+    second: 1shirt_29
+  - first:
+      213: 9010573983815721503
+    second: 1shirt_30
+  - first:
+      213: -8526222327996723046
+    second: 1shirt_31
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -128,7 +224,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -142,7 +238,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 80
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
@@ -199,13 +295,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: shirt_basic_red_0
+      name: 1shirt_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 96
-        width: 32
-        height: 32
+        y: 384
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,83 +309,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41f8395b01507dc20800000000000000
-      internalID: 3231056826985582356
+      spriteID: 7a6dc98b45f08bdb0800000000000000
+      internalID: -4776050548277455193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 376eddb3678a25400800000000000000
-      internalID: 311496550005991027
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shirt_basic_red_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 96
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d45b40e0462ca2a80800000000000000
-      internalID: -8490760412465941171
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shirt_basic_red_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 96
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e51bced9399a3c260800000000000000
-      internalID: 7116718287650337118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shirt_basic_red_4
+      name: 1shirt_1
       rect:
         serializedVersion: 2
         x: 128
-        y: 96
-        width: 32
-        height: 32
+        y: 384
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,20 +330,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 463936fe58d94d060800000000000000
-      internalID: 6977374921276232548
+      spriteID: 021fe8899948ee3d0800000000000000
+      internalID: -3175454892025253600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_5
+      name: 1shirt_2
       rect:
         serializedVersion: 2
-        x: 160
-        y: 96
-        width: 32
-        height: 32
+        x: 256
+        y: 384
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,20 +351,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6972cf20eea5e430800000000000000
-      internalID: 3811644937536174445
+      spriteID: 9e98710965e7c8de0800000000000000
+      internalID: -1329548879731389975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_6
+      name: 1shirt_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 96
-        width: 32
-        height: 32
+        x: 384
+        y: 384
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -339,20 +372,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a474094bcf8acfa0800000000000000
-      internalID: -5779649068510448479
+      spriteID: a8ccca39224307690800000000000000
+      internalID: -7606522447517660022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_7
+      name: 1shirt_4
       rect:
         serializedVersion: 2
-        x: 224
-        y: 96
-        width: 32
-        height: 32
+        x: 512
+        y: 384
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,20 +393,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2030aee91c29398f0800000000000000
-      internalID: -534922570434477310
+      spriteID: 94ab088917ae67800800000000000000
+      internalID: 609932573166058057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_8
+      name: 1shirt_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf42d3b82b39c830800000000000000
+      internalID: 4091866782444441521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1shirt_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71c43fa7724b57c0800000000000000
+      internalID: -4081595555473211011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1shirt_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a369de2ec4721a0800000000000000
+      internalID: -6834409371979073022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1shirt_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
-        width: 32
-        height: 32
+        y: 256
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -381,83 +477,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: effa5631b77de0a70800000000000000
-      internalID: 8795204045907537918
+      spriteID: 995a2757e2051bab0800000000000000
+      internalID: -4994122351308003943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_9
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 654c6e0aa96cb22d0800000000000000
-      internalID: -3302327534319385514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shirt_basic_red_10
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be13ac90b7ed40f00800000000000000
-      internalID: 1082234430502351339
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shirt_basic_red_11
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1bb477f966c5e87c0800000000000000
-      internalID: -4067211817637164111
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shirt_basic_red_12
+      name: 1shirt_9
       rect:
         serializedVersion: 2
         x: 128
-        y: 64
-        width: 32
-        height: 32
+        y: 256
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,20 +498,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 033fe7afea1b3ea40800000000000000
-      internalID: 5396352143605035824
+      spriteID: 9310297daf9284610800000000000000
+      internalID: 1605579424492814649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_13
+      name: 1shirt_10
       rect:
         serializedVersion: 2
-        x: 160
-        y: 64
-        width: 32
-        height: 32
+        x: 256
+        y: 256
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -486,20 +519,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 432d81853c87dc6e0800000000000000
-      internalID: -1815662294368464332
+      spriteID: 05d8f709cd4a3fd30800000000000000
+      internalID: 4464092922878332240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_14
+      name: 1shirt_11
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 32
-        height: 32
+        x: 384
+        y: 256
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -507,20 +540,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f35953eb55d0bd80800000000000000
-      internalID: -8236849127827614730
+      spriteID: b745383886c19b4e0800000000000000
+      internalID: -1965508527161912197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_15
+      name: 1shirt_12
       rect:
         serializedVersion: 2
-        x: 224
-        y: 64
-        width: 32
-        height: 32
+        x: 512
+        y: 256
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,20 +561,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c2c418dfab050cd0800000000000000
-      internalID: -2592653160609430845
+      spriteID: dd50d330cdada6620800000000000000
+      internalID: 2768265559454582237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_16
+      name: 1shirt_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b0be9507518e290800000000000000
+      internalID: -7861009577286104162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1shirt_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84f439f4f80022d0800000000000000
+      internalID: -3305632278243904374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1shirt_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72485868c43badcc0800000000000000
+      internalID: -3685436203793546201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1shirt_16
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
-        width: 32
-        height: 32
+        y: 128
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -549,83 +645,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06caad3d37a836680800000000000000
-      internalID: -8763008219852657568
+      spriteID: 98b3a0cfbce526520800000000000000
+      internalID: 2693819757320878985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_17
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 705dcf29c48f5caf0800000000000000
-      internalID: -376621986048322297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shirt_basic_red_18
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c9935545afa3c1220800000000000000
-      internalID: 2457904343468554652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shirt_basic_red_19
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6b55ca25034067c0800000000000000
-      internalID: -4080187572926194836
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shirt_basic_red_20
+      name: 1shirt_17
       rect:
         serializedVersion: 2
         x: 128
-        y: 32
-        width: 32
-        height: 32
+        y: 128
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -633,20 +666,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86f6bd2c618a62b40800000000000000
-      internalID: 5415200417671507816
+      spriteID: 2b5d2995b17defd80800000000000000
+      internalID: -8214892157810321998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_21
+      name: 1shirt_18
       rect:
         serializedVersion: 2
-        x: 160
-        y: 32
-        width: 32
-        height: 32
+        x: 256
+        y: 128
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -654,20 +687,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 372cff19bc0861db0800000000000000
-      internalID: -4821524739237363085
+      spriteID: 1e85f3ee0363d2490800000000000000
+      internalID: -7769494198360778527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_22
+      name: 1shirt_19
       rect:
         serializedVersion: 2
-        x: 192
-        y: 32
-        width: 32
-        height: 32
+        x: 384
+        y: 128
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -675,20 +708,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 779100d94ca5ce3d0800000000000000
-      internalID: -3176063836708923017
+      spriteID: 1426cea9d6aea7d50800000000000000
+      internalID: 6735953949157515841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_23
+      name: 1shirt_20
       rect:
         serializedVersion: 2
-        x: 224
-        y: 32
-        width: 32
-        height: 32
+        x: 512
+        y: 128
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,20 +729,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14a6cd22746606430800000000000000
-      internalID: 3774128943450057281
+      spriteID: ce9ea7a6fdcdbf4d0800000000000000
+      internalID: -3099641066392196628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_24
+      name: 1shirt_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2449989839ae5df30800000000000000
+      internalID: 4599840513817416770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1shirt_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba9ed357563760f0800000000000000
+      internalID: -1123869833308497220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1shirt_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a842c544e96c450800000000000000
+      internalID: 6108743961015519886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1shirt_24
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 32
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -717,83 +813,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee8a0fec4c84ca780800000000000000
-      internalID: -8670475172472379154
+      spriteID: 3c1a8daf3825372b0800000000000000
+      internalID: -5588031985833958973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_25
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 442efec6fa8b6e0c0800000000000000
-      internalID: -4546743710197489084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shirt_basic_red_26
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 490486f52490be420800000000000000
-      internalID: 2660230185565569172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shirt_basic_red_27
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e06bee55620647b00800000000000000
-      internalID: 825390349482374670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shirt_basic_red_28
+      name: 1shirt_25
       rect:
         serializedVersion: 2
         x: 128
         y: 0
-        width: 32
-        height: 32
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -801,20 +834,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c29dced27ef7d3090800000000000000
-      internalID: -8053139927783909076
+      spriteID: 764f0d5670bef9090800000000000000
+      internalID: -8025437593945443225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_29
+      name: 1shirt_26
       rect:
         serializedVersion: 2
-        x: 160
+        x: 256
         y: 0
-        width: 32
-        height: 32
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -822,20 +855,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 808e675ef8c27f5c0800000000000000
-      internalID: -4181824732448495608
+      spriteID: d6f7e8ec8201173b0800000000000000
+      internalID: -5516610301101965459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_30
+      name: 1shirt_27
       rect:
         serializedVersion: 2
-        x: 192
+        x: 384
         y: 0
-        width: 32
-        height: 32
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -843,20 +876,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 959c2dff2b0d20d20800000000000000
-      internalID: 3243384148874938713
+      spriteID: 96cb5da1054bcff00800000000000000
+      internalID: 1151993860840602729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shirt_basic_red_31
+      name: 1shirt_28
       rect:
         serializedVersion: 2
-        x: 224
+        x: 512
         y: 0
-        width: 32
-        height: 32
+        width: 128
+        height: 128
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -864,8 +897,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf7add081cd3a9400800000000000000
-      internalID: 331645423865145339
+      spriteID: 75d041331cdae7eb0800000000000000
+      internalID: -4720144314140455593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1shirt_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecd6579951138210800000000000000
+      internalID: 1333928991120612588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1shirt_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1266b75c4dfb0d70800000000000000
+      internalID: 9010573983815721503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1shirt_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9050cf67f5cca980800000000000000
+      internalID: -8526222327996723046
       vertices: []
       indices: 
       edges: []

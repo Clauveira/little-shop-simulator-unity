@@ -44,8 +44,6 @@ public class CustomizableSprites : MonoBehaviour
         shoesSriteRenderer = shoes.GetComponent<SpriteRenderer>();
         emoteSriteRenderer = emote.GetComponent<SpriteRenderer>();
 
-
-
     }
 
 
