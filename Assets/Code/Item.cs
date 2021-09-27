@@ -14,4 +14,5 @@ public class Item
     public ItemType itemType;
     public int Id;
     public Color color;
+    public int price;
 }

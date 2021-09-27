@@ -2,13 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class Player : MonoBehaviour
 {
     public float speed = 1.5f;
     public Rigidbody2D rigidbody;
     public Animator animator;
 
     Vector2 movement;
+
+    [SerializeField] private UI_Inventory uiBuyingInventory;
 
     private Inventory inventory;
 
@@ -24,6 +26,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Awake(){
         inventory = new Inventory();
+        uiBuyingInventory.SetInventory(inventory);
     }
 
     void Move()
