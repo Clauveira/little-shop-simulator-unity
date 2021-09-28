@@ -92,6 +92,21 @@ public class CustomizableSprites : MonoBehaviour
         shoesSriteRenderer.sprite = shoesSkin.sprites[AnimationNumber];
         emoteSriteRenderer.sprite = emoteSkin.sprites[emoteNumber];
     }
+
+    public void setItemAparence(Item item){
+        switch (item.itemType)
+        {
+            case Item.ItemType.Shirt:
+            shirtSriteRenderer.color = item.color;
+            break;
+            case Item.ItemType.Pants:
+            pantsSriteRenderer.color = item.color;
+            break;
+            case Item.ItemType.Shoes:
+            shoesSriteRenderer.color = item.color;
+            break;
+        }
+    }
 }
 
 [System.Serializable]
@@ -99,3 +114,4 @@ public struct Skins
 {
     public Sprite[] sprites;
 }
+

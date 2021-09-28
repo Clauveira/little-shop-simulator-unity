@@ -1,3 +1,4 @@
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -8,6 +9,8 @@ public class UI_Inventory : MonoBehaviour
     private Inventory inventory;
     private Transform itemSlotContainer;
     private Transform itemSlotTemplate;
+    public bool is_players = false;
+    public int rows = 4;
 
     private void Awake() {
         FindItemReference();
@@ -15,6 +18,12 @@ public class UI_Inventory : MonoBehaviour
 
     public void SetInventory(Inventory inventory) {
         this.inventory = inventory;
+
+        inventory.OnItemListChanged += Inventory_OnItemListChanged;
+        RefreshInventoryIntems();
+    }
+
+    private void Inventory_OnItemListChanged(object sender, System.EventArgs e){
         RefreshInventoryIntems();
     }
 
@@ -26,18 +35,26 @@ public class UI_Inventory : MonoBehaviour
     }
 
     private void RefreshInventoryIntems(){
-        int x = 0;
-        int y = 0;
-        float itemSlotCellSize = 30f;
-        
         if (itemSlotContainer == null || itemSlotTemplate == null) {
            FindItemReference();
         }
+        foreach(Transform child in itemSlotContainer){
+            if (child == itemSlotTemplate) continue;
+            Destroy(child.gameObject);
+        }
+        int x = 0;
+        int y = 0;
+        int cont = 0;
+        float itemSlotCellSize = 30f;
+        
 
         foreach (Item item in inventory.GetItemList()) {
+            
             RectTransform itemSlotRectTransform = Instantiate(itemSlotTemplate, itemSlotContainer).GetComponent<RectTransform>();
             itemSlotRectTransform.gameObject.SetActive(true);
             itemSlotRectTransform.anchoredPosition = new Vector2(x * itemSlotCellSize, -y * itemSlotCellSize);
+            itemSlotTemplate.GetComponent<itemSlotContainer>().setID(cont);
+            cont++;
 
             Image image = itemSlotRectTransform.Find("image").GetComponent<Image>();
             
@@ -45,7 +62,7 @@ public class UI_Inventory : MonoBehaviour
             image.color = item.color;
 
             x++;
-            if (x > 3) {
+            if (x > rows-1) {
                 x = 0;
                 y++;
             }
@@ -55,8 +72,10 @@ public class UI_Inventory : MonoBehaviour
     public void AddBuyingItem(StoreSlot slot){
         if (!inventory.getIsFull()){
             inventory.AddItem(slot.getItem());
-            RefreshInventoryIntems();
+            ///// OnItemListChanged?.Invoke(this, EventArgs.Empty);
             slot.saleAccepted();
         }
     }
+
+
 }
