@@ -5,14 +5,18 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public float speed = 1.5f;
-    public Rigidbody2D rigidbody;
+    public Rigidbody2D playerRigidbody;
     public Animator animator;
+    public CustomizableSprites characterSprites;
 
     Vector2 movement;
 
     [SerializeField] private UI_Inventory uiBuyingInventory;
+    [SerializeField] private UI_Inventory uiPlayerInventory;
 
     private Inventory buyingInventory;
+    private Inventory playerInventory;
+
 
 
     void Start()
@@ -24,9 +28,19 @@ public class Player : MonoBehaviour
         Animate();
     }
 
+    public void transferToPersonalInventory(){
+        foreach(Item new_item in buyingInventory.GetItemList()){
+            playerInventory.AddItem(new_item);
+        }
+        buyingInventory.clearInventory();
+    }
+
     private void Awake(){
         buyingInventory = new Inventory();
         uiBuyingInventory.SetInventory(buyingInventory);
+
+        playerInventory = new Inventory();
+        uiPlayerInventory.SetInventory(playerInventory);
     }
 
     void Move()
@@ -54,10 +68,17 @@ public class Player : MonoBehaviour
 
     void FixedUpdate()
     {
-        rigidbody.MovePosition(rigidbody.position + movement.normalized * speed * Time.fixedDeltaTime);
+        playerRigidbody.MovePosition(playerRigidbody.position + movement.normalized * speed * Time.fixedDeltaTime);
     }
 
     public Inventory getInventory(){
         return buyingInventory;
+    }
+
+    public void equipeItem(int itemId){
+        characterSprites.setItemAparence(playerInventory.GetItemList()[itemId+1]);
+        //SpriteRenderer sprite = transform.Find("Sprites/Body/Shirt").GetComponent(typeof(Sprite));
+        //sprite.color = item.color;
+
     }
 }
