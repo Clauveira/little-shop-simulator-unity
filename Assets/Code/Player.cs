@@ -76,7 +76,7 @@ public class Player : MonoBehaviour
     }
 
     public void equipeItem(int itemId){
-        characterSprites.setItemAparence(playerInventory.GetItemList()[itemId+1]);
+        characterSprites.setItemAparence(playerInventory.GetItemList()[itemId]);
         //SpriteRenderer sprite = transform.Find("Sprites/Body/Shirt").GetComponent(typeof(Sprite));
         //sprite.color = item.color;
 

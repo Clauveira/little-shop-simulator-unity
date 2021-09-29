@@ -38,29 +38,28 @@ public class UI_Inventory : MonoBehaviour
         if (itemSlotContainer == null || itemSlotTemplate == null) {
            FindItemReference();
         }
+        int x = 0;
+        int y = 0;
+        int count = 0;
+        float itemSlotCellSize = 30f;
+        
         foreach(Transform child in itemSlotContainer){
             if (child == itemSlotTemplate) continue;
             Destroy(child.gameObject);
         }
-        int x = 0;
-        int y = 0;
-        int cont = 0;
-        float itemSlotCellSize = 30f;
-        
 
         foreach (Item item in inventory.GetItemList()) {
-            
             RectTransform itemSlotRectTransform = Instantiate(itemSlotTemplate, itemSlotContainer).GetComponent<RectTransform>();
             itemSlotRectTransform.gameObject.SetActive(true);
             itemSlotRectTransform.anchoredPosition = new Vector2(x * itemSlotCellSize, -y * itemSlotCellSize);
-            itemSlotTemplate.GetComponent<itemSlotContainer>().setID(cont);
-            cont++;
+            itemSlotRectTransform.GetComponent<itemSlotContainer>().setID(count);
 
             Image image = itemSlotRectTransform.Find("image").GetComponent<Image>();
             
             image.sprite = item.GetSprite();
             image.color = item.color;
-
+            
+            count++;
             x++;
             if (x > rows-1) {
                 x = 0;
